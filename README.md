@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 # jenkins-file
 
 SSH into repo from linux machine
+and cloned kumar's mynewJenkins-main repository
 =======
 # My New Jenkins Project 
 
