@@ -20,5 +20,3 @@ This is Maven Project
 - Post Build in Jenkins Demo
 
 - Dockerize Build, Deploy & Run Container from Jenkins - 2nd Pipeline demo with docker build, deploy, run
-
->>>>>>> 1a66f4229dd69b67b5b7fbaf6fd378330c264dd7
