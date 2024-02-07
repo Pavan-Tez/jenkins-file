@@ -1,3 +1,3 @@
 # jenkins-file
 
-SSH AUTHENTICATION INTO THE REPOSITORY FROM LINUX MACHINE
+SSH into repo from linux machine
